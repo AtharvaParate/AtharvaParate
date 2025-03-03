@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Real Time Weather Fetching Web App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Maven**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
